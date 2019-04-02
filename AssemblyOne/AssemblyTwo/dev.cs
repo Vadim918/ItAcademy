@@ -7,7 +7,7 @@ using AssemblyOne;
 
 namespace AssemblyTwo
 {
-    class dev : Employee
+    class Dev : Employee
     {
         int numProt = Employee.numProtected;
         int numProtInter = Employee.numProtectedIntrnal;
